@@ -77,9 +77,10 @@ https://github.com/georgevallejos/MDSv5_ML-Proyecto_Final.git
 
 3. Abra el archivo notebook **MDSv5_ML-Proyecto-Final_Grupo_5.ipynb** en Google Colaboratory
 
-4. Extraer el Dataset del RAR file y cargarlo al Colab.
+4. Extraer el Dataset del siguiente link (Dataset es muy grande)
+   Data.gov. https://catalog.data.gov/dataset/crime-data-from-2020-to-present
 
-5. Ejecute todos los pasos en Google Colaboratory, las librerias requeridas seran importadas por defect
+6. Ejecute todos los pasos en Google Colaboratory, las librerias requeridas seran importadas por defect
 
    Note, el colap le pedira reiniciar la sesion para importar las librerias correctamente
    

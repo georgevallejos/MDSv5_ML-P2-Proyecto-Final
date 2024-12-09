@@ -10,9 +10,9 @@
   - [Requisitos Previos](#requisitos-previos)
   - [Cómo Ejecutar](#cómo-ejecutar)
 - [Declaración del Problema](#declaración-del-problema)
-  - [Objetivo Comercial](#objetivo-comercial)
+  - [Objetivo General](#objetivo_general)
+  - [Objetivos Especificos](#objetivos_especificos)
   - [Preparación de Datos:](#preparación-de-datos)
-  - [Construcción y Evaluación del Modelo](#construcción-y-evaluación-del-modelo)
   - [Conclusiones](#conclusiones)
 
 ## Introducción

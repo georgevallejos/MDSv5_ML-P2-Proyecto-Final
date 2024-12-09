@@ -130,7 +130,7 @@ Aplicar modelos supervisados de Machine Learning.
    Generar graficos para visualizar los resultados
 
 ### Conclusiones
-- Se identificaron las zonas/áreas de alta incidencia delictiva mediante el análisis geográfico de los datos de ubicación y características de cada incidente.
+- Se identificaron las zonas/áreas con alta incidencia delictiva mediante el análisis geográfico según los datos de ubicación y características de cada incidente.
   - Cluster 0 (266841): Central, Hollywood, Rampart, Olympic, Northeast, Hollenbeck, Newton, Southwest, Foothill, Wilshire, N Hollywood
   - Cluster 1 (216541): Van Nuys, Mission, West Valley, Topanga, N Hollywood, Foothill, Devonshire, West LA
   - Cluster 2 (149118): Southwest, Southeast, Newton, 77th Street, Pacific, Harbor
@@ -141,5 +141,6 @@ Aplicar modelos supervisados de Machine Learning.
 - Se analizó el perfil demográfico de las víctimas con el fin de entender qué grupos poblacionales son más vulnerables a ciertos tipos de crímenes.
   - La frecuencia de víctimas se centra en las edades donde este alcanza un 40% según el modelo.
   - El origen étnico o raza de las víctimas es otro factor que resalta más alcanzando el 30%.
-  - El sexo de las victimas es otro factor obteniendo el 20% de las víctimas.
+  -   - El sexo de las victimas es otro factor obteniendo el 20% de las víctimas.
+
 

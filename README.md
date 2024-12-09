@@ -130,17 +130,16 @@ Aplicar modelos supervisados de Machine Learning.
    Generar graficos para visualizar los resultados
 
 ### Conclusiones
-- Se identifico las zonas/áreas de alta incidencia delictiva mediante el análisis geográfico de los datos de ubicación y características de cada incidente.
-  - Cluster 0: Central, Hollywood, Rampart, Olympic, Northeast, Hollenbeck, Newton, Southwest, Foothill, Wilshire, N Hollywood
-  - Cluster 1: Van Nuys, Mission, West Valley, Topanga, N Hollywood, Foothill, Devonshire, West LA
-  - Cluster 2: Southwest, Southeast, Newton, 77th Street, Pacific, Harbor
-  - Cluster 3: Southwest, Wilshire, West LA, N Hollywood, Pacific, Hollywood, Van Nuys
-  - Cluster 4: Harbor
-- Se identifico patrones temporales de los crímenes reportados.
-  - Si bien los crimenes ocurren durante todo el año la incidencia de estos se dispara entre los meses de Diciembre a Enero.
-- Se analizo el perfil demográfico de las víctimas con el fin de entender qué grupos poblacionales son más vulnerables a ciertos tipos de crímenes.
-  - La frecuencia de las victimas se centra en las edades donde este alcanza un porcentaje alto segun el modelo
-  - La dencendencia de las victimas es otro factor que resalta mas con un alto porcentaje en los hispanos.
-  - El sexo de las victimas es otro factor con un alto porcentaje en las mujeres.
-- Se desarrollar modelos predictivos utilizando técnicas de machine learning para anticipar la ocurrencia de delitos en ciertas áreas y horas.
-- Se generaron gráficos (como mapas de calor y gráficos interactivos) que faciliten la interpretación de los datos y apoyen la toma de decisiones.
+- Se identificaron las zonas/áreas de alta incidencia delictiva mediante el análisis geográfico de los datos de ubicación y características de cada incidente.
+  - Cluster 0 (266841): Central, Hollywood, Rampart, Olympic, Northeast, Hollenbeck, Newton, Southwest, Foothill, Wilshire, N Hollywood
+  - Cluster 1 (216541): Van Nuys, Mission, West Valley, Topanga, N Hollywood, Foothill, Devonshire, West LA
+  - Cluster 2 (149118): Southwest, Southeast, Newton, 77th Street, Pacific, Harbor
+  - Cluster 3 (169036): Southwest, Wilshire, West LA, N Hollywood, Pacific, Hollywood, Van Nuys
+  - Cluster 4 (33201): Harbor
+- Se identificaron patrones temporales de los crímenes reportados.
+- Si bien los crímenes ocurren durante todo el año, la incidencia de estos incrementa considerablemente entre los meses de Diciembre a Enero.
+- Se analizó el perfil demográfico de las víctimas con el fin de entender qué grupos poblacionales son más vulnerables a ciertos tipos de crímenes.
+  - La frecuencia de víctimas se centra en las edades donde este alcanza un 40% según el modelo.
+  - El origen étnico o raza de las víctimas es otro factor que resalta más alcanzando el 30%.
+  - El sexo de las victimas es otro factor obteniendo el 20% de las víctimas.
+
